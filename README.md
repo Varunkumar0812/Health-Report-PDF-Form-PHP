@@ -5,8 +5,7 @@ The get_health_report.pdf feature later allows retrieval of the PDF when the ema
 
 The MySQL Users table looks like 
 
-+----------------------------------------------------------------------------------+
 |   Name      |  Age     |   Weight   |   Emailid                |  health_report  |
-+----------------------------------------------------------------------------------+
+| :---: | :---: | :---: | :---: | :---: |
 |Varunkumar   |19        |65          |varunkumarceg@gmail.com   |sample.pdf       |
-+----------------------------------------------------------------------------------+
+
